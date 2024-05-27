@@ -25,5 +25,8 @@ Gerekli paketleri yükleyin
   pip install -r requirements.txt
 ```
 
+## Hugging Face Interface
+To access the Hugging Face interface for this project, use the following link:
 
+https://huggingface.co/spaces/KAHRAMAN42/object_detection_for_cattle
   
