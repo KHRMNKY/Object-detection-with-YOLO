@@ -10,7 +10,7 @@
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/KHRMNKY/HuggingFace_Models_and_Spaces
+  git clone https://github.com/KHRMNKY/Object-detection-with-YOLO
 ```
 
 Terminalden Proje dizinine gidin
